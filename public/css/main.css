@@ -1,0 +1,24 @@
+.container-main {
+    margin-top: 75px;
+}
+
+#apps-list {
+    margin-bottom: 45px;
+}
+
+.apps-row {
+    border-bottom: 1px solid lightgray;
+}
+
+.apps-row > div {
+    margin: 12px;
+}
+
+.c_name {
+    font-weight: bold;
+}
+
+.app-result {
+    width: 100%;
+    height: 140px;
+}
